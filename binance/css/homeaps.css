@@ -1,0 +1,22 @@
+.pot {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    padding: 33px 40px 8px;
+    margin-bottom: 20px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    background-image: url(../img/bck.png);
+    background-size: cover;
+}
+.HintBlock {
+    margin-top: 0px;
+    background-color: rgb(255, 244, 217);
+    background-image: url(../img/seru.svg);
+    background-repeat: no-repeat;
+    background-position: 16px 16px;
+    padding: 16px 16px 16px 46px;
+    border-radius: 5px;
+    margin-bottom: 24px;
+}
